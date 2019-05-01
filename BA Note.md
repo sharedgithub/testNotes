@@ -38,21 +38,21 @@ b. SDLC - System development life cycle - People, process, physical architecture
 
 ### 7. Methodologies - Selection of best methodology is depending of projet team, business requirement, availablity of sources, fit for business
 
-a. Waterfall - linear, traditional, o/p of first is input for next, fully planned and budgeted
+* a. Waterfall - linear, traditional, o/p of first is input for next, fully planned and budgeted
 
 benifits - clear requirement, schedule, planned, extensive documentation, progress is easily measurable
 
 cons - rigid, inflexible, probles are discovered during testing, promopts gaps between business & developement team.
 When to use - requirements are clear,no pressure on immediate returns, requirements are stable,Strict requirement for formal approvals at milestones
 
-b. Incremental Model - Combination of linear and iterative approach, mini water fall, allows easier change of requirements, Focuses on delivering customer value 
+* b. Incremental Model - Combination of linear and iterative approach, mini water fall, allows easier change of requirements, Focuses on delivering customer value 
 
 benefits -  Provides early value in the development, requirement changes are allowed, problems can be detected earlier, can utilize problems in next iteration
 
 Cons - heavy documents, can losses business objective,difficult problems can lead to push next iteration
 When to use -Large projects where requirements are not understood, big project with new technology or requirement, changing requirements, business users are mandatory, need functional requirements tangible quickly
 
-c. Sprial Model - Combination of linear and iterative, heavy risk projects, each cycle ends with review
+* c. Sprial Model - Combination of linear and iterative, heavy risk projects, each cycle ends with review
 
 benefits - Accurately manages and mitigates risks, issues are identifies at start and risks are mitigated
 
@@ -60,7 +60,7 @@ Cons - high budget, long time, very customised cannot be resuable
 
 when to use - RIsk is high, resources are availble, no budget issues
 
-d. Agile SCrum - iterative approach (sprint), at each sprint working model is delivered
+* d. Agile SCrum - iterative approach (sprint), at each sprint working model is delivered
 
 Prons - flexible, requirements can be change, collaboration,daily feedback, stops “spinning wheels”
 
@@ -68,7 +68,7 @@ Cons - Leads to scope creep due to no defined end date, Challenging to initially
 
 When to use - Using or creating leading edge technology, Organization as an experienced Scrum Master, Pressure to produce a tangible product quickly, Development team doesn’t have resource constraints
 
-e. Rapid Developement - Incremental approach, Components and functions are developed in parallel, Developments have tight timeframes, Feedback is received and prototype is refined, Repeated until product fully meets requirements
+* e. Rapid Developement - Incremental approach, Components and functions are developed in parallel, Developments have tight timeframes, Feedback is received and prototype is refined, Repeated until product fully meets requirements
 
 Benefits - Reduce time to development, resusable product, fast
 
