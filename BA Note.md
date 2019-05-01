@@ -5,21 +5,21 @@
  - provide value addition to stakeholders
  
  2. Value of Business Analyst ?
- a. In buisness model business analyst understands needs and changes in process
- b. Find new opportunities
- c. aviod costs
- d. realize benefits to orginization
+	 a. In buisness model business analyst understands needs and changes in process
+	 b. Find new opportunities
+	 c. aviod costs
+	 d. realize benefits to orginization
  
 ### 3. The only constant in business is CHANGE
  
  
 ### 4.What does business analyst does ?
- a. Identify Problems and Opportunity
- b. Prepare and capture business requirement documents
- c. Define / design best possible solutions for problems/opportunities
- d. Implement the solutions
- e. Test solution with exit criteria and requirements 
- d. validate the end results achives original problems 
+	 a. Identify Problems and Opportunity
+	 b. Prepare and capture business requirement documents
+	 c. Define / design best possible solutions for problems/opportunities
+	 d. Implement the solutions
+	 e. Test solution with exit criteria and requirements 
+	 d. validate the end results achives original problems 
  
 ### 5. Types of Business Analyst
  a. Requirement Analyst - document requirements
