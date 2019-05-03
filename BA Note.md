@@ -192,38 +192,41 @@ Quote must be entered priorp to invoce generation
 
 Business requirement will be followed by business rule
 
-----Chapter 5. ---- Requirement basiscs
-19. why it is needed ?
+## ----Chapter 5. ---- Requirement basiscs
+
+### 19. why it is needed ?
 a. Requirements guide what business needs and solution meets needs
 
-20.  WHat is requirements ?
+### 20.  WHat is requirements ?
 Something product smust have and quality it must have.
 
-21. Categories of Requirements ?
-a. Functional - things product must have
-b. Non Functional requirement - security, interface
-c. Contraints - global requirements - need of product, naming conventions, assumptions, stekholders/customer list, budget, 
+### 21. Categories of Requirements ?
+	a. Functional - things product must have
+	b. Non Functional requirement - security, interface
+	c. Contraints - global requirements - need of product, naming conventions, assumptions, stekholders/customer list, budget, 
+
 examples - 
-The product budget must not exceed $50,000
-The product shall run on the company’s existing machines
-Implementation of the product cannot interrupt daily business
-The last 5 years of historical data needs to be made available in the product
 
-22. What makes good requirement ? - it is SMART requirement
-S - Specific - clear, simple - why ?, what ?, when ?, where ?
-M - Measurable - measure, indicator - how much ?, how many ?, how will it acc
-A - Attainable - feasible
-R - Reasonable - efforts are worth
-T - Traceable - trace  requirements with design, implementation & testing
+* The product budget must not exceed $50,000
+* The product shall run on the company’s existing machines
+* Implementation of the product cannot interrupt daily business
+* The last 5 years of historical data needs to be made available in the product
 
-23. Phase of requirement ?
+### 22. What makes good requirement ? - it is SMART requirement
+	S - Specific - clear, simple - why ?, what ?, when ?, where ?
+	M - Measurable - measure, indicator - how much ?, how many ?, how will it acc
+	A - Attainable - feasible
+	R - Reasonable - efforts are worth
+	T - Traceable - trace  requirements with design, implementation & testing
 
-Requirement Elicitation - pulling requirements out
-Requirement Analysis - making all requirements are available, modulazing
-Requirement Specification - categorizing requirements like functional, non functional, constraints and set priorities
-Requirements Approval - approval from different deparments
+### 23. Phase of requirement ?
 
-24. Business Rules ?
+* Requirement Elicitation - pulling requirements out
+* Requirement Analysis - making all requirements are available, modulazing
+* Requirement Specification - categorizing requirements like functional, non functional, constraints and set priorities
+* Requirements Approval - approval from different deparments
+
+### 24. Business Rules ?
 
 It defines or constraints business aspects - how business will be done and what rules to be follwoed
 It will be resolve either true or false - 
@@ -236,15 +239,15 @@ Quote must be entered priorp to invoce generation
 
 Business requirement will be followed by business rule
 
-----Chapter 6 ---- Requirement Elicitation - pulling out requirements by different techniques
+## ----Chapter 6 ---- Requirement Elicitation - pulling out requirements by different techniques
 
-25.  What is Eliciation ? - getting business requirements from users or stekholders determine business needs, understanding business constraints and limitations
+### 25.  What is Eliciation ? - getting business requirements from users or stekholders determine business needs, understanding business constraints and limitations
 what system is doing and what system needs to do
 
-26. What is Eliciting or Gathering ? - Gathering means order taking but Eliciting ask questions and documents needs
+### 26. What is Eliciting or Gathering ? - Gathering means order taking but Eliciting ask questions and documents needs
 
-27. How to elicitate requirement ?- 
-a. Brainstorming - Solving problems, generate ideas & create Consensus/solution
+### 27. How to elicitate requirement ?- 
+* a. Brainstorming - Solving problems, generate ideas & create Consensus/solution
 Types - 
 Individua brain stroming - Project team memeber
 Open brainstroming - get it in room with stekholders
@@ -255,13 +258,13 @@ Prons :Generate multiple ideas, involve multiple ppl, promotes equal participain
 Cons :ideas are not discussed in detailed, True meaning of idea may be ambiguous or misunderstood.
 
 Best Practices - 
-1. Define agenda
-2. Determine brain storming meeting in advance
-3. Clearly state objective of meeting
-4. Craete envirorment to encourage participaints
-5. Ask questions or clarifications during brain storming
+	1. Define agenda
+	2. Determine brain storming meeting in advance
+	3. Clearly state objective of meeting
+	4. Craete envirorment to encourage participaints
+	5. Ask questions or clarifications during brain storming
 
-b. Requirement workshop - get business groups in room and understand requirements
+* b. Requirement workshop - get business groups in room and understand requirements
 
 Agenda is set
 Process is understood
@@ -280,7 +283,7 @@ Cons - difficult to get right ppl in room at same time, can be expensive
 
 Best Practices - determined workshop ahead a time, be clear with session output, utilize modelling tool or visual images, 
 
-c. Interviewing - Systematic discussion on requirements, gain high level needs, process, constarint, one to one or with small group, see process requirements from interviewees perpesctive
+* c. Interviewing - Systematic discussion on requirements, gain high level needs, process, constarint, one to one or with small group, see process requirements from interviewees perpesctive
 
 Type -
 
@@ -296,30 +299,30 @@ Cons - creating scripted question time consuming, stekholder might have difficul
 Best Practice - Determine best interview type, schedule meeting ahead time, Respect person by being on time and dispaly interest, check understanding often, Let interviewee what will be done with informations, ask for examples, interview two to three person of same category
 
 Interview document generally contains:
-Name of interviewee
-Role of person and their primary responsibilities
-Open-ended questions
-Space for answers
-Space for interviewers’ insights
-Action item box for flagging key pieces of information
-Requirement, new requirement risk, assumption, or constraint
+	Name of interviewee
+	Role of person and their primary responsibilities
+	Open-ended questions
+	Space for answers
+	Space for interviewers’ insights
+	Action item box for flagging key pieces of information
+	Requirement, new requirement risk, assumption, or constraint
 
 
-Sample Interview Questions -
-What are other ways you accomplish this goal?
-Tell me about your frustrations with this process
-What makes a good day? A bad day?
-If you could wave your magic wand and make it different, what would the process look like?
-What standards or regulations should we be aware of?
-What purpose is accomplished by using the product or process?
-What equipment, tools, templates, and inputs do people need to use it?
-How long should tasks take?
-What people do you share information with?
-What failures cause the organization the most pain?
-What didn’t I ask that I should have?
-If we could only change one thing in    the process, what should it be?
+### Sample Interview Questions -
+* What are other ways you accomplish this goal?
+* Tell me about your frustrations with this process
+* What makes a good day? A bad day?
+* If you could wave your magic wand and make it different, what would the process look like?
+* What standards or regulations should we be aware of?
+* What purpose is accomplished by using the product or process?
+* What equipment, tools, templates, and inputs do people need to use it?
+* How long should tasks take?
+* What people do you share information with?
+* What failures cause the organization the most pain?
+* What didn’t I ask that I should have?
+* If we could only change one thing in    the process, what should it be?
 
-d. Survey - Question ask to stekholders to qualify their thoughts or Review of data from data base verifing log time, failures 
+* d. Survey - Question ask to stekholders to qualify their thoughts or Review of data from data base verifing log time, failures 
 Types -
 Open ended question - ask open ended question with text box like what they think about current process - difficult to analysis or survey to get quantified data
 closed ended question - Finite set of anwser for question, used for statistical analysis
@@ -328,24 +331,24 @@ Prons -Scalable for large audience, fast and inexpensive
 
 Cons -  response rate is low, open ended question required more analysis
 
-Best Pratice - 
-Focus your questions on high-priority risks that have been identified
-Identify user satisfaction levels with existing systems to set a baseline
-Questions should be direct and unambiguous
-Save complex questions for later in the survey
-Save demographic information for last
-Create rewards for participating
-Create the survey with inexpensive online tools
-Notify the participants when the survey is available and         
-continue to remind them to participate
+### Best Pratice - 
+* Focus your questions on high-priority risks that have been identified
+* Identify user satisfaction levels with existing systems to set a baseline
+* Questions should be direct and unambiguous
+* Save complex questions for later in the survey
+* Save demographic information for last
+* Create rewards for participating
+* Create the survey with inexpensive online tools
+* Notify the participants when the survey is available and         
+* continue to remind them to participate
 
-e. Document Review - Study of available documents
+* e. Document Review - Study of available documents
 
-f. Analyzing Interfaces - analysis existing interfaces, input/ output data and medium, describe manual or automated process
+* f. Analyzing Interfaces - analysis existing interfaces, input/ output data and medium, describe manual or automated process
 
------ Chapter 7 ------ Requirement Analsis
+## ----- Chapter 7 ------ Requirement Analsis
 
-28. What is Visual modelling ? - Graphical representation using modelling language e.g wokflow, process flow,Orginizational chart, matrix . take something complex and make it simple
+### 28. What is Visual modelling ? - Graphical representation using modelling language e.g wokflow, process flow,Orginizational chart, matrix . take something complex and make it simple
 
 
 Benefits - visual images are easy to understand, receive requirement efficiently,identify underlying problems,allows to remove irrelevant information
@@ -353,13 +356,14 @@ Benefits - visual images are easy to understand, receive requirement efficiently
 As is prosess is model and model to be processs and find out gaps
 
 
-29. What is requirement analysis ?
+### 29. What is requirement analysis ?
 
 stekholder to understand requirement
 understand requirement need to prioritize
 design team to analyze requirements
 
-30. Business Models ?
+### 30. Business Models ?
+
 a. Orginizational chart - heirarchy, roles and deparments
 b. Compentative comparision matrix - comparision of available options or platforms, services or platforms
 c. Stekholder model - show stekholders involved in project
@@ -367,23 +371,23 @@ d. Use Case diagram - how is going to use application
 e. process flow diagram - process from start to end - unit lele >> task level
 f. User interface wireframe - It shows how application will look like - design of particular application
 
-31. Technical Models ?
+### 31. Technical Models ?
 a. System context digram - how system will processed with database details etc, how data will flow - high level diagram
 b. Data Flow digram - data flow from one place to another - helps to understand requirement
 c. CRUD - Create, Read, Update and delete - role wise details - Process vs entity, process vs role - database table details
 d. State digram - states of application at different stages
 e. Entity Relationship Diagram (ERD)- Database design diagram (entity)
 
-32. BPMN and UML modelling
+### 32. BPMN and UML modelling
 
-33. When to get technical team into project - once requirement eliciation is completed.
+### 33. When to get technical team into project - once requirement eliciation is completed.
 
------- chapter 8----Requirement Specifications ---- deriving requirements, categorizing requirements, Prioritizing requirements, estimating requirements, identifing requirement needs further ivenstigations
+## ------ chapter 8----Requirement Specifications ---- deriving requirements, categorizing requirements, Prioritizing requirements, estimating requirements, identifing requirement needs further ivenstigations
 
-34.  Categorizing requirements ? - for documenting, help to prioritizing requirement, estimating system cost, not clear requirement
+### 34.  Categorizing requirements ? - for documenting, help to prioritizing requirement, estimating system cost, not clear requirement
 Functional (product must do), non functional (time response, property) ,products constraints (1000 user accessing system)
 
-35. Deriving Requirement means ?
+### 35. Deriving Requirement means ?
 
 adding further details to requireemnt,adding clearity to requirement, removing ambiguity
 
