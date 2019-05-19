@@ -1,10 +1,10 @@
 ### 1. What is Role of Business Analyst ?
- - BA enables changes in orginization
- - define needs
- - provide solutions for needs
- - provide value addition to stakeholders
+	 - BA enables changes in orginization
+	 - define needs
+	 - provide solutions for needs
+	 - provide value addition to stakeholders
  
- 2. Value of Business Analyst ?
+ ### 2. Value of Business Analyst ?
 	 a. In buisness model business analyst understands needs and changes in process
 	 b. Find new opportunities
 	 c. aviod costs
@@ -40,130 +40,130 @@ b. SDLC - System development life cycle - People, process, physical architecture
 
 * a. Waterfall - linear, traditional, o/p of first is input for next, fully planned and budgeted
 
-benifits - clear requirement, schedule, planned, extensive documentation, progress is easily measurable
+		benifits - clear requirement, schedule, planned, extensive documentation, progress is easily measurable
 
-cons - rigid, inflexible, probles are discovered during testing, promopts gaps between business & developement team.
-When to use - requirements are clear,no pressure on immediate returns, requirements are stable,Strict requirement for formal approvals at milestones
+		cons - rigid, inflexible, probles are discovered during testing, promopts gaps between business & developement team.
+
+		When to use - requirements are clear,no pressure on immediate returns, requirements are stable,Strict requirement for formal approvals at milestones
 
 * b. Incremental Model - Combination of linear and iterative approach, mini water fall, allows easier change of requirements, Focuses on delivering customer value 
 
-benefits -  Provides early value in the development, requirement changes are allowed, problems can be detected earlier, can utilize problems in next iteration
+		benefits -  Provides early value in the development, requirement changes are allowed, problems can be detected earlier, can utilize problems in next iteration
 
-Cons - heavy documents, can losses business objective,difficult problems can lead to push next iteration
-When to use -Large projects where requirements are not understood, big project with new technology or requirement, changing requirements, business users are mandatory, need functional requirements tangible quickly
+		Cons - heavy documents, can losses business objective,difficult problems can lead to push next iteration
+
+		When to use -Large projects where requirements are not understood, big project with new technology or requirement, changing requirements, business users are mandatory, need functional requirements tangible quickly
 
 * c. Sprial Model - Combination of linear and iterative, heavy risk projects, each cycle ends with review
 
-benefits - Accurately manages and mitigates risks, issues are identifies at start and risks are mitigated
+		benefits - Accurately manages and mitigates risks, issues are identifies at start and risks are mitigated
 
-Cons - high budget, long time, very customised cannot be resuable
+		Cons - high budget, long time, very customised cannot be resuable
 
-when to use - RIsk is high, resources are availble, no budget issues
+		when to use - Risk is high, resources are availble, no budget issues
 
-* d. Agile SCrum - iterative approach (sprint), at each sprint working model is delivered
+* d. Agile Scrum - iterative approach (sprint), at each sprint working model is delivered
 
-Prons - flexible, requirements can be change, collaboration,daily feedback, stops “spinning wheels”
+		Prons - flexible, requirements can be change, collaboration,daily feedback, stops “spinning wheels”
 
-Cons - Leads to scope creep due to no defined end date, Challenging to initially adopt, train in an organization, Changing or leaving team members can have a drastically negative effect
+		Cons - Leads to scope creep due to no defined end date, Challenging to initially adopt, train in an organization, Changing or leaving team members can have a drastically negative effect
 
-When to use - Using or creating leading edge technology, Organization as an experienced Scrum Master, Pressure to produce a tangible product quickly, Development team doesn’t have resource constraints
+		When to use - Using or creating leading edge technology, Organization as an experienced Scrum Master, Pressure to produce a tangible product quickly, Development team doesn’t have resource constraints
 
 * e. Rapid Developement - Incremental approach, Components and functions are developed in parallel, Developments have tight timeframes, Feedback is received and prototype is refined, Repeated until product fully meets requirements
 
-Benefits - Reduce time to development, resusable product, fast
+		Benefits - Reduce time to development, resusable product, fast
 
-cons - need strong team, modular approach with experience team memebers, high risk
+		cons - need strong team, modular approach with experience team memebers, high risk
 
-When to use - system which can be modularized and needs to complete in 2 to 3 months, strong team is availble
+		When to use - system which can be modularized and needs to complete in 2 to 3 months, strong team is availble
 
 ## 4 chapter -
 
-	8. What should be business objective ?
-	a. what is project Purpose of projects ?
+### 8. What should be business objective ?
+	a. what is Purpose of projects ?
 	b. what are Objectives and goals ?
-	c. WHat is success and how it will be measure ?
+	c. What is success and how it will be measure ?
 
 ### 9. What is business cases ?
 
-document presented to decision makers with solutions, actions and cost & benefits
-Possible needs and solutions for each problems.
+	document presented to decision makers with solutions, actions and cost & benefits
+	Possible needs and solutions for each problems.
  
 ### 10. What is contains and When it is used?
 
-Problems, solutions/recommendations for same - decision maker to take actions
-solutions for problems, it is created before start of project so that budgets can be allocated for kick off
+	Problems, solutions/recommendations for same - decision maker to take actions
+	solutions for problems, it is created before start of project so that budgets can be allocated for kick off
 
 ### 11. How creates it ?
 
-anyone as per company, VPs/directors, Managers, BA
+	anyone as per company, VPs/directors, Managers, BA
 
 ### 12. Phases to an Effective Business Case
- a. Analysis - identify problem or opportunity or need, determine high level requirements, collect data needed to support business case (ROI), validate decision with high level return, analys liklihood projects to be approved and if should continue
- 
- b. Potential Solution - Benefits, cost, time & schedule, risk, one of your solution should be do nothing
+	 a. Analysis - identify problem or opportunity or need, determine high level requirements, collect data needed to support business case (ROI), validate decision with high level return, analys liklihood projects to be approved and if should continue
 
- c. Write Business case - Executive summary, problem statement, analysis, solutions, cost-benefits analysis, recommendation  
+	 b. Potential Solution - Benefits, cost, time & schedule, risk, one of your solution should be do nothing
 
- d. Review Business case - validate problem statement, ensure solutions are valid, double check cost-benefits, your recommendation, correct spelling, review document by another person, get project buyin
+	 c. Write Business case - Executive summary, problem statement, analysis, solutions, cost-benefits analysis, recommendation  
 
- e. Present Business case - remind yourself that your solution is not known to anybody, clearly define problems and business acts, give recommendation, explain ROI, touch each risk level, mention your stekholder backer, summarizing presentation with ROI
+	 d. Review Business case - validate problem statement, ensure solutions are valid, double check cost-benefits, your recommendation, correct spelling, review document by another person, get project buyin
+
+	 e. Present Business case - remind yourself that your solution is not known to anybody, clearly define problems and business acts, give recommendation, explain ROI, touch each risk level, mention your stekholder backer, summarizing presentation with ROI
  
 ### 13. What is stekholders ?
 
-- indv or groups are directly or indirectly affetcted by activities done by project. (Team memeber, Project team, customer, business user, sponseror, city/community, supoorting team, supplier, employees)
+	- indv or groups are directly or indirectly affetcted by activities done by project. (Team memeber, Project team, customer, business user, sponseror, city/community, supoorting team, supplier, employees)
 
 ### 14. Why to identify stekholder ? 
 
-- correct requirements, support, more ideas, more inputs, Risks, solutions, gain buyin,increase creditiblity
+	- correct requirements, support, more ideas, more inputs, Risks, solutions, gain buyin,increase creditiblity
 
 ### 15. How to identify stekholders ?
 
- a. go through with anticipated scope or requirements or project chartered
-     - who are the beneficiary
-	 - team or indv directly involved with beneficiaries
-	 - gov parties
-	 - indv or group whoes job is going to affected
-	 - influencer
-	 - ppl who are involved in output of the project
- b. get ideas from identified stakeholders
+	 a. go through with anticipated scope or requirements or project chartered
+	     - who are the beneficiary
+		 - team or indv directly involved with beneficiaries
+		 - gov parties
+		 - indv or group whoes job is going to affected
+		 - influencer
+		 - ppl who are involved in output of the project
+	 b. get ideas from identified stakeholders
  
 ### 16. RACI matrix why it is used - to give responsiblity to stekholder, to set clear expectations.
 
 ### 17. What is RACI ? - 
 
-R - Responsible - Who will be doing task and who is assigned to do that task.
+	R - Responsible - Who will be doing task and who is assigned to do that task.
 
-A - Accountable - Who is accountable to get the task done.
+	A - Accountable - Who is accountable to get the task done.
 
-C - Consulted - SME
+	C - Consulted - SME
 
-I - Informed - directors, higher managers to whom we need to updated the status.
+	I - Informed - directors, higher managers to whom we need to updated the status.
 
 ### 18. How RACI matrixs is drawn ?
 
-horizontal - project roles are listed (Project manager, BA, Stakeholders, sales manager, directors)
-vertical - Action or task (Project planning, requirement gathering, elicit, solution designing)
-
-
+	horizontal - project roles are listed (Project manager, BA, Stakeholders, sales manager, directors)
+	vertical - Action or task (Project planning, requirement gathering, elicit, solution designing)
 
 ## ----Chapter 5. ----
 
 ### 19. why it is needed ?
-a. Requirements guide what business needs and solution meets needs
+	a. Requirements guide what business needs and solution meets needs
 
 ### 20.  WHat is requirements ?
-Something product smust have and quality it must have.
+	Something product smust have and quality it must have.
 
 ### 21. Categories of Requirements ?
 
-a. Functional - things product must have
-b. Non Functional requirement - security, interface
-c. Contraints - global requirements - need of product, naming conventions, assumptions, stekholders/customer list, budget, 
-examples - 
-The product budget must not exceed $50,000
-The product shall run on the company’s existing machines
-Implementation of the product cannot interrupt daily business
-The last 5 years of historical data needs to be made available in the product
+	a. Functional - things product must have
+	b. Non Functional requirement - security, interface
+	c. Contraints - global requirements - need of product, naming conventions, assumptions, stekholders/customer list, budget, 
+	examples - 
+	The product budget must not exceed $50,000
+	The product shall run on the company’s existing machines
+	Implementation of the product cannot interrupt daily business
+	The last 5 years of historical data needs to be made available in the product
 
 ### 22. What makes good requirement ? - it is SMART requirement
 	S - Specific - clear, simple - why ?, what ?, when ?, where ?
@@ -174,28 +174,28 @@ The last 5 years of historical data needs to be made available in the product
 
 ### 23. Phase of requirement ?
 
-* Requirement Elicitation - pulling requirements out
-* Requirement Analysis - making all requirements are available, modulazing
-* Requirement Specification - categorizing requirements like functional, non functional, constraints and set priorities
-* Requirements Approval - approval from different deparments
+	* Requirement Elicitation - pulling requirements out
+	* Requirement Analysis - making all requirements are available, modulazing
+	* Requirement Specification - categorizing requirements like functional, non functional, constraints and set priorities
+	* Requirements Approval - approval from different deparments
 
 ### 24. Business Rules ?
 
-It defines or constraints business aspects - how business will be done and what rules to be follwoed
-It will be resolve either true or false - 
+	It defines or constraints business aspects - how business will be done and what rules to be follwoed
+	It will be resolve either true or false - 
 
-Purpose - certain business structure controlling or influence 
+	Purpose - certain business structure controlling or influence 
 
-example - Entered email address must be appear valid
+	example - Entered email address must be appear valid
 
-Quote must be entered priorp to invoce generation
+	Quote must be entered priorp to invoce generation
 
-Business requirement will be followed by business rule
+	Business requirement will be followed by business rule
 
 ## ----Chapter 5. ---- Requirement basiscs
 
 ### 19. why it is needed ?
-a. Requirements guide what business needs and solution meets needs
+	a. Requirements guide what business needs and solution meets needs
 
 ### 20.  WHat is requirements ?
 Something product smust have and quality it must have.
@@ -205,12 +205,12 @@ Something product smust have and quality it must have.
 	b. Non Functional requirement - security, interface
 	c. Contraints - global requirements - need of product, naming conventions, assumptions, stekholders/customer list, budget, 
 
-examples - 
+	examples - 
 
-* The product budget must not exceed $50,000
-* The product shall run on the company’s existing machines
-* Implementation of the product cannot interrupt daily business
-* The last 5 years of historical data needs to be made available in the product
+	* The product budget must not exceed $50,000
+	* The product shall run on the company’s existing machines
+	* Implementation of the product cannot interrupt daily business
+	* The last 5 years of historical data needs to be made available in the product
 
 ### 22. What makes good requirement ? - it is SMART requirement
 	S - Specific - clear, simple - why ?, what ?, when ?, where ?
@@ -221,130 +221,131 @@ examples -
 
 ### 23. Phase of requirement ?
 
-* Requirement Elicitation - pulling requirements out
-* Requirement Analysis - making all requirements are available, modulazing
-* Requirement Specification - categorizing requirements like functional, non functional, constraints and set priorities
-* Requirements Approval - approval from different deparments
+	* Requirement Elicitation - pulling requirements out
+	* Requirement Analysis - making all requirements are available, modulazing
+	* Requirement Specification - categorizing requirements like functional, non functional, constraints and set priorities
+	* Requirements Approval - approval from different deparments
 
 ### 24. Business Rules ?
 
-It defines or constraints business aspects - how business will be done and what rules to be follwoed
-It will be resolve either true or false - 
+	It defines or constraints business aspects - how business will be done and what rules to be follwoed
+	It will be resolve either true or false - 
 
-Purpose - certain business structure controlling or influence 
+	Purpose - certain business structure controlling or influence 
 
-example - Entered email address must be appear valid
+	example - Entered email address must be appear valid
 
-Quote must be entered priorp to invoce generation
+	Quote must be entered priorp to invoce generation
 
-Business requirement will be followed by business rule
+	Business requirement will be followed by business rule
 
 ## ----Chapter 6 ---- Requirement Elicitation - pulling out requirements by different techniques
 
 ### 25.  What is Eliciation ? - getting business requirements from users or stekholders determine business needs, understanding business constraints and limitations
-what system is doing and what system needs to do
+	what system is doing and what system needs to do
 
-### 26. What is Eliciting or Gathering ? - Gathering means order taking but Eliciting ask questions and documents needs
+### 26. What is Eliciting or Gathering ? - 
+	Gathering means order taking but Eliciting ask questions and documents needs
 
 ### 27. How to elicitate requirement ?- 
-* a. Brainstorming - Solving problems, generate ideas & create Consensus/solution
-Types - 
-Individua brain stroming - Project team memeber
-Open brainstroming - get it in room with stekholders
-Structured - Participants writing ideas and facilator go to each person and ask for their ideas
+	* a. Brainstorming - Solving problems, generate ideas & create Consensus/solution
+		Types - 
+			Individua brain stroming - Project team memeber
+			Open brainstroming - get it in room with stekholders
+			Structured - Participants writing ideas and facilator go to each person and ask for their ideas
 
-Prons :Generate multiple ideas, involve multiple ppl, promotes equal participaints 
+			Prons :Generate multiple ideas, involve multiple ppl, promotes equal participaints 
 
-Cons :ideas are not discussed in detailed, True meaning of idea may be ambiguous or misunderstood.
+			Cons :ideas are not discussed in detailed, True meaning of idea may be ambiguous or misunderstood.
 
-Best Practices - 
-	1. Define agenda
-	2. Determine brain storming meeting in advance
-	3. Clearly state objective of meeting
-	4. Craete envirorment to encourage participaints
-	5. Ask questions or clarifications during brain storming
+			Best Practices - 
+				1. Define agenda
+				2. Determine brain storming meeting in advance
+				3. Clearly state objective of meeting
+				4. Craete envirorment to encourage participaints
+				5. Ask questions or clarifications during brain storming
 
-* b. Requirement workshop - get business groups in room and understand requirements
+	* b. Requirement workshop - get business groups in room and understand requirements
 
-Agenda is set
-Process is understood
-dives into details and make some decision and get validated with business so that getting consensus
+			Agenda is set
+			Process is understood
+			dives into details and make some decision and get validated with business so that getting consensus
 
-Types -
-Formal requirement process workshop - strick agenda, selected stekholders, define, create, refine and reach closure to business requirements
+			Types -
+			Formal requirement process workshop - strick agenda, selected stekholders, define, create, refine and reach closure to business requirements
 
-Business process improvement workshop - semi formal, analys existing process and define new and agree with new improveded process
+			Business process improvement workshop - semi formal, analys existing process and define new and agree with new improveded process
 
-agile requirement workshop - unstructured and informal, used to generally document requirements
+			agile requirement workshop - unstructured and informal, used to generally document requirements
 
-Prons - Effective, greate chance of contain consensus as issues or doubts are clear at real time, stekholder buy in, document is ready by end and can be given for review and final approval.
+			Prons - Effective, greate chance of contain consensus as issues or doubts are clear at real time, stekholder buy in, document is ready by end and can be given for review and final approval.
 
-Cons - difficult to get right ppl in room at same time, can be expensive
+			Cons - difficult to get right ppl in room at same time, can be expensive
 
-Best Practices - determined workshop ahead a time, be clear with session output, utilize modelling tool or visual images, 
+			Best Practices - determined workshop ahead a time, be clear with session output, utilize modelling tool or visual images, 
 
-* c. Interviewing - Systematic discussion on requirements, gain high level needs, process, constarint, one to one or with small group, see process requirements from interviewees perpesctive
+	* c. Interviewing - Systematic discussion on requirements, gain high level needs, process, constarint, one to one or with small group, see process requirements from interviewees perpesctive
 
-Type -
+		Type -
 
-Personal Interview - ready with scripted questions
-Job shadowing - Walk through a work thgrought a day with user and observing them
-Customer Site Visit - Understand Operational environment they workin, understand environment contrainsts
-Task Analysis - End user to walk through with requirements, understand as is process, interviewer ask question what is working fine, and what is not
+			Personal Interview - ready with scripted questions
+			Job shadowing - Walk through a work thgrought a day with user and observing them
+			Customer Site Visit - Understand Operational environment they workin, understand environment contrainsts
+			Task Analysis - End user to walk through with requirements, understand as is process, interviewer ask question what is working fine, and what is not
 
-Prons - Promote interactive conversesstion, identify conflits or discrepencies, enable to understand non verbal behavior
+			Prons - Promote interactive conversesstion, identify conflits or discrepencies, enable to understand non verbal behavior
 
-Cons - creating scripted question time consuming, stekholder might have difficulties in future process, Tranacription & analysis of interview data can be complex & time consuming
+			Cons - creating scripted question time consuming, stekholder might have difficulties in future process, Tranacription & analysis of interview data can be complex & time consuming
 
-Best Practice - Determine best interview type, schedule meeting ahead time, Respect person by being on time and dispaly interest, check understanding often, Let interviewee what will be done with informations, ask for examples, interview two to three person of same category
+			Best Practice - Determine best interview type, schedule meeting ahead time, Respect person by being on time and dispaly interest, check understanding often, Let interviewee what will be done with informations, ask for examples, interview two to three person of same category
 
-Interview document generally contains:
-	Name of interviewee
-	Role of person and their primary responsibilities
-	Open-ended questions
-	Space for answers
-	Space for interviewers’ insights
-	Action item box for flagging key pieces of information
-	Requirement, new requirement risk, assumption, or constraint
+			Interview document generally contains:
+				Name of interviewee
+				Role of person and their primary responsibilities
+				Open-ended questions
+				Space for answers
+				Space for interviewers’ insights
+				Action item box for flagging key pieces of information
+				Requirement, new requirement risk, assumption, or constraint
 
 
 ### Sample Interview Questions -
-* What are other ways you accomplish this goal?
-* Tell me about your frustrations with this process
-* What makes a good day? A bad day?
-* If you could wave your magic wand and make it different, what would the process look like?
-* What standards or regulations should we be aware of?
-* What purpose is accomplished by using the product or process?
-* What equipment, tools, templates, and inputs do people need to use it?
-* How long should tasks take?
-* What people do you share information with?
-* What failures cause the organization the most pain?
-* What didn’t I ask that I should have?
-* If we could only change one thing in    the process, what should it be?
+	* What are other ways you accomplish this goal?
+	* Tell me about your frustrations with this process
+	* What makes a good day? A bad day?
+	* If you could wave your magic wand and make it different, what would the process look like?
+	* What standards or regulations should we be aware of?
+	* What purpose is accomplished by using the product or process?
+	* What equipment, tools, templates, and inputs do people need to use it?
+	* How long should tasks take?
+	* What people do you share information with?
+	* What failures cause the organization the most pain?
+	* What didn’t I ask that I should have?
+	* If we could only change one thing in    the process, what should it be?
 
-* d. Survey - Question ask to stekholders to qualify their thoughts or Review of data from data base verifing log time, failures 
-Types -
-Open ended question - ask open ended question with text box like what they think about current process - difficult to analysis or survey to get quantified data
-closed ended question - Finite set of anwser for question, used for statistical analysis
+	* d. Survey - Question ask to stekholders to qualify their thoughts or Review of data from data base verifing log time, failures 
+	Types -
+	Open ended question - ask open ended question with text box like what they think about current process - difficult to analysis or survey to get quantified data
+	closed ended question - Finite set of anwser for question, used for statistical analysis
 
-Prons -Scalable for large audience, fast and inexpensive
+	Prons -Scalable for large audience, fast and inexpensive
 
-Cons -  response rate is low, open ended question required more analysis
+	Cons -  response rate is low, open ended question required more analysis
 
 ### Best Pratice - 
-* Focus your questions on high-priority risks that have been identified
-* Identify user satisfaction levels with existing systems to set a baseline
-* Questions should be direct and unambiguous
-* Save complex questions for later in the survey
-* Save demographic information for last
-* Create rewards for participating
-* Create the survey with inexpensive online tools
-* Notify the participants when the survey is available and         
-* continue to remind them to participate
+	* Focus your questions on high-priority risks that have been identified
+	* Identify user satisfaction levels with existing systems to set a baseline
+	* Questions should be direct and unambiguous
+	* Save complex questions for later in the survey
+	* Save demographic information for last
+	* Create rewards for participating
+	* Create the survey with inexpensive online tools
+	* Notify the participants when the survey is available and         
+	* continue to remind them to participate
 
-* e. Document Review - Study of available documents
+	* e. Document Review - Study of available documents
 
-* f. Analyzing Interfaces - analysis existing interfaces, input/ output data and medium, describe manual or automated process
+	* f. Analyzing Interfaces - analysis existing interfaces, input/ output data and medium, describe manual or automated process
 
 ## ----- Chapter 7 ------ Requirement Analsis
 
