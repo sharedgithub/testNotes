@@ -127,9 +127,11 @@ b. SDLC - System development life cycle - People, process, physical architecture
 		 - indv or group whoes job is going to affected
 		 - influencer
 		 - ppl who are involved in output of the project
+		 
 	 b. get ideas from identified stakeholders
  
-### 16. RACI matrix why it is used - to give responsiblity to stekholder, to set clear expectations.
+### 16. RACI matrix why it is used 
+	- to give responsiblity to stekholder, to set clear expectations.
 
 ### 17. What is RACI ? - 
 
@@ -146,26 +148,30 @@ b. SDLC - System development life cycle - People, process, physical architecture
 	horizontal - project roles are listed (Project manager, BA, Stakeholders, sales manager, directors)
 	vertical - Action or task (Project planning, requirement gathering, elicit, solution designing)
 
-## ----Chapter 5. ----
+## ----Chapter 5. Requirements----
 
 ### 19. why it is needed ?
 	a. Requirements guide what business needs and solution meets needs
 
-### 20.  WHat is requirements ?
-	Something product smust have and quality it must have.
+### 20.  What is requirements ?
+	Something product must have and quality it must have.
 
 ### 21. Categories of Requirements ?
 
 	a. Functional - things product must have
 	b. Non Functional requirement - security, interface
 	c. Contraints - global requirements - need of product, naming conventions, assumptions, stekholders/customer list, budget, 
+	
 	examples - 
+	
 	The product budget must not exceed $50,000
 	The product shall run on the company’s existing machines
 	Implementation of the product cannot interrupt daily business
 	The last 5 years of historical data needs to be made available in the product
 
-### 22. What makes good requirement ? - it is SMART requirement
+### 22. What makes good requirement ? - 
+	it is SMART requirement
+	
 	S - Specific - clear, simple - why ?, what ?, when ?, where ?
 	M - Measurable - measure, indicator - how much ?, how many ?, how will it acc
 	A - Attainable - feasible
@@ -181,54 +187,8 @@ b. SDLC - System development life cycle - People, process, physical architecture
 
 ### 24. Business Rules ?
 
-	It defines or constraints business aspects - how business will be done and what rules to be follwoed
-	It will be resolve either true or false - 
-
-	Purpose - certain business structure controlling or influence 
-
-	example - Entered email address must be appear valid
-
-	Quote must be entered priorp to invoce generation
-
-	Business requirement will be followed by business rule
-
-## ----Chapter 5. ---- Requirement basiscs
-
-### 19. why it is needed ?
-	a. Requirements guide what business needs and solution meets needs
-
-### 20.  WHat is requirements ?
-Something product smust have and quality it must have.
-
-### 21. Categories of Requirements ?
-	a. Functional - things product must have
-	b. Non Functional requirement - security, interface
-	c. Contraints - global requirements - need of product, naming conventions, assumptions, stekholders/customer list, budget, 
-
-	examples - 
-
-	* The product budget must not exceed $50,000
-	* The product shall run on the company’s existing machines
-	* Implementation of the product cannot interrupt daily business
-	* The last 5 years of historical data needs to be made available in the product
-
-### 22. What makes good requirement ? - it is SMART requirement
-	S - Specific - clear, simple - why ?, what ?, when ?, where ?
-	M - Measurable - measure, indicator - how much ?, how many ?, how will it acc
-	A - Attainable - feasible
-	R - Reasonable - efforts are worth
-	T - Traceable - trace  requirements with design, implementation & testing
-
-### 23. Phase of requirement ?
-
-	* Requirement Elicitation - pulling requirements out
-	* Requirement Analysis - making all requirements are available, modulazing
-	* Requirement Specification - categorizing requirements like functional, non functional, constraints and set priorities
-	* Requirements Approval - approval from different deparments
-
-### 24. Business Rules ?
-
-	It defines or constraints business aspects - how business will be done and what rules to be follwoed
+	It defines or constraints business aspects - how business will be done and what rules to be follwed.
+	
 	It will be resolve either true or false - 
 
 	Purpose - certain business structure controlling or influence 
@@ -241,17 +201,24 @@ Something product smust have and quality it must have.
 
 ## ----Chapter 6 ---- Requirement Elicitation - pulling out requirements by different techniques
 
-### 25.  What is Eliciation ? - getting business requirements from users or stekholders determine business needs, understanding business constraints and limitations
-	what system is doing and what system needs to do
+### 25.  What is Eliciation ? 
+	
+	- getting business requirements from users or stekholders determine business needs, understanding business constraints and limitations
+	
+	what system is doing to do and what system needs to do
 
 ### 26. What is Eliciting or Gathering ? - 
+
 	Gathering means order taking but Eliciting ask questions and documents needs
 
 ### 27. How to elicitate requirement ?- 
+
 	* a. Brainstorming - Solving problems, generate ideas & create Consensus/solution
 		Types - 
 			Individua brain stroming - Project team memeber
+			
 			Open brainstroming - get it in room with stekholders
+			
 			Structured - Participants writing ideas and facilator go to each person and ask for their ideas
 
 			Prons :Generate multiple ideas, involve multiple ppl, promotes equal participaints 
@@ -272,11 +239,11 @@ Something product smust have and quality it must have.
 			dives into details and make some decision and get validated with business so that getting consensus
 
 			Types -
-			Formal requirement process workshop - strick agenda, selected stekholders, define, create, refine and reach closure to business requirements
+			a. Formal requirement process workshop - strick agenda, selected stekholders, define, create, refine and reach closure to business requirements
 
-			Business process improvement workshop - semi formal, analys existing process and define new and agree with new improveded process
+			b. Business process improvement workshop - semi formal, analys existing process and define new and agree with new improveded process
 
-			agile requirement workshop - unstructured and informal, used to generally document requirements
+			c. agile requirement workshop - unstructured and informal, used to generally document requirements
 
 			Prons - Effective, greate chance of contain consensus as issues or doubts are clear at real time, stekholder buy in, document is ready by end and can be given for review and final approval.
 
@@ -289,8 +256,11 @@ Something product smust have and quality it must have.
 		Type -
 
 			Personal Interview - ready with scripted questions
+			
 			Job shadowing - Walk through a work thgrought a day with user and observing them
+			
 			Customer Site Visit - Understand Operational environment they workin, understand environment contrainsts
+			
 			Task Analysis - End user to walk through with requirements, understand as is process, interviewer ask question what is working fine, and what is not
 
 			Prons - Promote interactive conversesstion, identify conflits or discrepencies, enable to understand non verbal behavior
@@ -324,9 +294,11 @@ Something product smust have and quality it must have.
 	* If we could only change one thing in    the process, what should it be?
 
 	* d. Survey - Question ask to stekholders to qualify their thoughts or Review of data from data base verifing log time, failures 
-	Types -
-	Open ended question - ask open ended question with text box like what they think about current process - difficult to analysis or survey to get quantified data
-	closed ended question - Finite set of anwser for question, used for statistical analysis
+		Types -
+	
+		Open ended question - ask open ended question with text box like what they think about current process - difficult to analysis or survey to get quantified data
+	
+		closed ended question - Finite set of anwser for question, used for statistical analysis
 
 	Prons -Scalable for large audience, fast and inexpensive
 
@@ -349,35 +321,35 @@ Something product smust have and quality it must have.
 
 ## ----- Chapter 7 ------ Requirement Analsis
 
-### 28. What is Visual modelling ? - Graphical representation using modelling language e.g wokflow, process flow,Orginizational chart, matrix . take something complex and make it simple
+### 28. What is Visual modelling ? 
+	- Graphical representation using modelling language e.g wokflow, process flow,Orginizational chart, matrix . take something complex and make it simple
 
+	Benefits - visual images are easy to understand, receive requirement efficiently,identify underlying problems,allows to remove irrelevant information
 
-Benefits - visual images are easy to understand, receive requirement efficiently,identify underlying problems,allows to remove irrelevant information
-
-As is prosess is model and model to be processs and find out gaps
-
+	As is prosess is model and model to be processs and find out gaps
 
 ### 29. What is requirement analysis ?
 
-stekholder to understand requirement
-understand requirement need to prioritize
-design team to analyze requirements
+	stekholder to understand requirement
+	understand requirement need to prioritize
+	design team to analyze requirements
 
 ### 30. Business Models ?
 
-a. Orginizational chart - heirarchy, roles and deparments
-b. Compentative comparision matrix - comparision of available options or platforms, services or platforms
-c. Stekholder model - show stekholders involved in project
-d. Use Case diagram - how is going to use application
-e. process flow diagram - process from start to end - unit lele >> task level
-f. User interface wireframe - It shows how application will look like - design of particular application
+	a. Orginizational chart - heirarchy, roles and deparments
+	b. Compentative comparision matrix - comparision of available options or platforms, services or platforms
+	c. Stekholder model - show stekholders involved in project
+	d. Use Case diagram - how application is going to be used
+	e. process flow diagram - process from start to end - unit level >> task level
+	f. User interface wireframe - It shows how application will look like - design of particular application
 
 ### 31. Technical Models ?
-a. System context digram - how system will processed with database details etc, how data will flow - high level diagram
-b. Data Flow digram - data flow from one place to another - helps to understand requirement
-c. CRUD - Create, Read, Update and delete - role wise details - Process vs entity, process vs role - database table details
-d. State digram - states of application at different stages
-e. Entity Relationship Diagram (ERD)- Database design diagram (entity)
+
+	a. System context digram - how system will processed with database details etc, how data will flow - high level diagram
+	b. Data Flow digram - data flow from one place to another - helps to understand requirement
+	c. CRUD - Create, Read, Update and delete - role wise details - Process vs entity, process vs role - database table details
+	d. State digram - states of application at different stages
+	e. Entity Relationship Diagram (ERD)- Database design diagram (entity)
 
 ### 32. BPMN and UML modelling
 
@@ -385,91 +357,96 @@ e. Entity Relationship Diagram (ERD)- Database design diagram (entity)
 
 ## ------ chapter 8----Requirement Specifications ---- deriving requirements, categorizing requirements, Prioritizing requirements, estimating requirements, identifing requirement needs further ivenstigations
 
-### 34.  Categorizing requirements ? - for documenting, help to prioritizing requirement, estimating system cost, not clear requirement
-Functional (product must do), non functional (time response, property) ,products constraints (1000 user accessing system)
+### 34.  Categorizing requirements ?
+	- for documenting, help to prioritizing requirement, estimating system cost, not clear requirement
+	Functional (product must do), non functional (time response, property) ,products constraints (1000 user accessing system)
 
 ### 35. Deriving Requirement means ?
 
-adding further details to requireemnt,adding clearity to requirement, removing ambiguity
+	adding further details to requireemnt,adding clearity to requirement, removing ambiguity
 
-a. Parsing requirements - breaking down the requirement broad requirement, removing and from requirement- 
-example - Original Requirement:
-“User-completed fields on tax forms shall be converted to electronic text documents.”
+	a. Parsing requirements - breaking down the requirement broad requirement, removing and from requirement- 
+	
+	example - Original Requirement:
+	“User-completed fields on tax forms shall be converted to electronic text documents.”
 
-Parsed Requirements:
-“The system shall be able to convert handwriting to text.”
-“The system shall be able to convert machine print to text.”
-“The system shall be able to electronically correct user-completed fields.”
+	Parsed Requirements:
+	“The system shall be able to convert handwriting to text.”
+	“The system shall be able to convert machine print to text.”
+	“The system shall be able to electronically correct user-completed fields.”
 
-b. Interpreting Requirements -Reducing generalized statements and ambiguity
-example -
-Original Requirement:
-“Each PC shall have state-of-the-art software installed.”
+	b. Interpreting Requirements -Reducing generalized statements and ambiguity
+	
+	example -
+	Original Requirement:
+	“Each PC shall have state-of-the-art software installed.”
 
-Interpreted Requirement:
-“Each PC shall have Microsoft Office 2013 and Windows 10 installed.”
+	Interpreted Requirement:
+	“Each PC shall have Microsoft Office 2013 and Windows 10 installed.”
 
-Parsed Requirements:
-“Each PC shall have Microsoft Office 2013 installed.”
-“Each PC shall have Windows 10 installed.”
+	Parsed Requirements:
+	“Each PC shall have Microsoft Office 2013 installed.”
+	“Each PC shall have Windows 10 installed.”
 
-c. Focusing Requirements - combining overlapping requirements
-example - 
-Original Requirements:
-“Each PC must have a standard spreadsheet tool installed that runs in Windows.”
+	c. Focusing Requirements - combining overlapping requirements
+	example -
+	
+	Original Requirements:
+	“Each PC must have a standard spreadsheet tool installed that runs in Windows.”
 
-Focused Requirement:
-“Each PC on the LAN shall have Microsoft Office Excel 2013.”
+	Focused Requirement:
+	“Each PC on the LAN shall have Microsoft Office Excel 2013.”
 
-d. Qualifying requirements - add verifications and complience (measurable)
-example -
-Original Requirement:
-“The xxx command must peform the following actions…”
+	d. Qualifying requirements - add verifications and complience (measurable)
+	
+	example -
+	Original Requirement:
+	“The xxx command must peform the following actions…”
 
-Focused Requirement:
-“Each command shall be executed during system testing to demonstrate its functionality.”
+	Focused Requirement:
+	“Each command shall be executed during system testing to demonstrate its functionality.”
 
-36. Assigning Requirement attributes - clarifications, filtering, validation
+### 36. Assigning Requirement attributes - clarifications, filtering, validation
 
-Uniqe identifier - m
-Acceptace criteria - m
-author
-complexity
-ownership - m
-performance
-urgency (help in iterative projects)
-business value (description for business purpose) -m
-status - m
-type
-priority
-source-m
+	Uniqe identifier - m
+	Acceptace criteria - m
+	author
+	complexity
+	ownership - m
+	performance
+	urgency (help in iterative projects)
+	business value (description for business purpose) -m
+	status - m
+	type
+	priority
+	source-m
 
-37. Why Prioritization is required ? - if too many requirement then not possible to fulfill all so to identify which needs to be implemented within schdeule and budget
+### 37. Why Prioritization is required ? - if too many requirement then not possible to fulfill all so to identify which needs to be implemented within schdeule and budget
 
-38. Prioritization Factor ?
-a. Value to business
-b. Value to customer
-c. minimize cost to develope
-d. time to implementation
-e. ease to technical implementation
-f. ease to business implementation
-g. Obligation to extrnal authority
+### 38. Prioritization Factor ?
+	a. Value to business
+	b. Value to customer
+	c. minimize cost to develope
+	d. time to implementation
+	e. ease to technical implementation
+	f. ease to business implementation
+	g. Obligation to extrnal authority
 
-39. Steps for Prioritization ?
-a. Business value
-b. estimate cost
-c. determine time
+### 39. Steps for Prioritization ?
+	a. Business value
+	b. estimate cost
+	c. determine time
 
-40. Validating Requirement means - go through with requirement again and SMART techniques
+### 40. Validating Requirement means - go through with requirement again and SMART techniques
 
-41. Business Requirement Document - FInal document having all requirements, business rules, use case, business values, versioning, assumption, solutions, Approvals, stekholder list,Glossary, Appendix - Business process diagram, orginization structure, reports formats, rules, models
+### 41. Business Requirement Document - FInal document having all requirements, business rules, use case, business values, versioning, assumption, solutions, Approvals, stekholder list,Glossary, Appendix - Business process diagram, orginization structure, reports formats, rules, models
 
------- Chapter 9 ---- Requirement Approval - Approval from Stekholders , Teachnical team and Sponsor review
+## ------ Chapter 9 ---- Requirement Approval - Approval from Stekholders , Teachnical team and Sponsor review
 
------- Chapter 10 ----- Verify Completion of project get user feed back, what went right what needs to improve
+## ------ Chapter 10 ----- Verify Completion of project get user feed back, what went right what needs to improve
 
-Feedback survey
-review meetings
+## Feedback survey
+## review meetings
  
 
 
